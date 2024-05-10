@@ -38,4 +38,7 @@ Caption generation is performed word by word, and the generated captions are eva
 
 A user-friendly interface is developed using Streamlit, allowing users to upload images. The uploaded images undergo feature extraction using the VGG16 model. These extracted features, along with input sequences, are then fed into the LSTM model to predict caption word by word. The generated words are joined together and the caption is displayed on the interface for user interaction.
 
+![Screenshot 2024-05-10 182959](https://github.com/PriyadharshiniV21/Image-Captioning-using-LSTM/assets/111731598/f2ff2c1a-55fe-4959-90d1-510c97f6206f)
+
+
 This comprehensive project description outlines the entire process from data preprocessing to model training, evaluation, and integration into a user interface using Streamlit.
