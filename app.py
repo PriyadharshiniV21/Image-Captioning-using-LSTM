@@ -1,7 +1,7 @@
 
-import streamlit as st
-import numpy as np
 import tensorflow
+import numpy as np
+import streamlit as st
 from keras.models import Model, load_model
 from keras.preprocessing.text import Tokenizer
 from keras.preprocessing.sequence import pad_sequences
