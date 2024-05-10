@@ -1,6 +1,8 @@
 # Image Captioning using LSTM
 
-**Technologies Used:** Python, TensorFlow, Streamlit
+### **Technologies Used:** 
+
+Python, TensorFlow, Streamlit
 
 **Dataset:**
 
