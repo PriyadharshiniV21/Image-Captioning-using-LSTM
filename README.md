@@ -4,7 +4,7 @@
 
 Python, TensorFlow, Streamlit
 
-**Dataset:**
+## **Dataset:**
 
 The project utilizes the Flickr8k dataset, a collection of images along with their corresponding captions.
 
